@@ -1,9 +1,10 @@
-### Hello, I'm Hannah 🙋‍♀️
+## Hello, I'm Hannah 🙋‍♀️
 <p align="center">
   <img src="https://media.giphy.com/media/RQ9VER0afXEaMyaN0Z/giphy.gif" width=800px>
 </p>
 
-A digital marketing professional currently learning full stack web development with the University of Birmingham.
+### A digital marketing professional currently learning full stack web development with the University of Birmingham.
+
 
 - ⌨️ I’m currently learning to work with servers, databases and other backend technologies including node.js, express, MySQL
 - 🤓 I’m proficient in front-end development, including HTML, CSS, JavaScript and JQuery
