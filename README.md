@@ -1,7 +1,4 @@
 ### Hello, I'm Hannah 🙋‍♀️
-
-![Hannah Sones profile](https://media.giphy.com/media/RQ9VER0afXEaMyaN0Z/giphy.gif)
-
 <p align="center">
   <img src="https://media.giphy.com/media/RQ9VER0afXEaMyaN0Z/giphy.gif" width=800px>
 </p>
